@@ -8,9 +8,9 @@ It doesn’t work like the old systems. There’s no central database you can sh
 Everything runs on telemetry data. Devices check in, things apply, and that’s about it.  
 It gives you flexibility, but not much of a foundation.
 
-I’ve seen a lot—greenfield setups, legacy rebuilds, rushed deployments.  
-The pattern’s always the same. Without structure, targeting turns into guesswork.  
-And with no clear guidance or best practices, even experienced admins start relying on what I call *vibe targeting*—setting assignments based on gut feel or what worked last time.
+I’ve seen a lot: greenfield setups, legacy rebuilds, rushed deployments.  
+The pattern is always the same. Without structure, targeting turns into guesswork.  
+And with no clear guidance or best practices, even experienced admins start relying on what I call *vibe targeting* — setting assignments based on gut feel, habit, or what worked last time.
 
 Unless you build structure into it, the system won’t do it for you.  
 And when that happens, things drift.  
