@@ -39,7 +39,7 @@ It’s not perfect. Dynamic rule criteria for devices in Entra ID is limited. Yo
 
 Yes, device targeting can feel limited. But it’s manageable if you build structure around it.
 
-In the next post, I’ll show how naming conventions and group construction can be used to create reliable dynamic targeting—even when the native tools are flat. It’s not magic, but it works.
+In the next post, I’ll show how naming conventions and group construction can be used to create reliable dynamic targeting even when the native tools are flat. It’s not magic, but it works.
 
 ---
 
