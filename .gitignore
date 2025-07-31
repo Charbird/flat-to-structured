@@ -1,3 +1,10 @@
+# Ignore upstream content outside GitHub directory
 ../00-drafts/
 ../02-personal/
+
+# macOS metadata
 .DS_Store
+
+# Obsidian workspace cache (if you ever track .obsidian folder)
+.obsidian/workspace
+
